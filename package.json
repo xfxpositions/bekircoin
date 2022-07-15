@@ -1,0 +1,10 @@
+{
+  "name": "bekircoin",
+  "version": "0.1.2",
+  "description": "bekircoin is a simple cryptocurrency",
+  "main": "main.js",
+  "repository": "https://github.com/xfxpositions/bekircoin.git",
+  "author": "Yusuf Ali Karaca ",
+  "license": "MIT",
+  "private": false
+}
